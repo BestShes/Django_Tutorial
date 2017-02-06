@@ -1,0 +1,8 @@
+li a {
+    color: black;
+}
+
+body {
+    height: 500px;
+    background: white url("images/background.JPG") no-repeat right bottom;
+}
